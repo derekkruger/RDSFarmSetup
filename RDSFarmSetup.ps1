@@ -1,4 +1,4 @@
-$Broker = "RDSBRK01.DRE.COM"
+$Broker = "RDSBRK01.DRE.COM" 
 $Desk = "RDSDESK01.DRE.COM"
 $Web = "RDSWEB01.DRE.COM"
 $Sesh = "RDSSESH01.DRE.COM"
